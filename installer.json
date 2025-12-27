@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "couple",
-    "version": "1.0.29"
+    "version": "1.0.30"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,11 +16,11 @@
     "App:couple": {
       "__document_status__": "Active",
       "id": 73,
-      "deleted_at": "2025-12-26 21:59:21",
+      "deleted_at": null,
       "type": "Web App",
       "name": "couple",
       "description": "Couple Hard Woods Floor",
-      "version": "1.0.29",
+      "version": "1.0.30",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Hammer",
       "logo": "[{\"name\":\"apple-touch-icon_tmccvb.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1766121375/apple-touch-icon_tmccvb.png\"}]",
@@ -102,7 +102,7 @@
       "name": "modules",
       "description": "Modules",
       "in_sidebar": 1,
-      "deleted_at": "2025-12-26 21:59:21"
+      "deleted_at": "2025-12-27 07:29:34"
     },
     "Module:couple": {
       "__document_status__": "Active",
