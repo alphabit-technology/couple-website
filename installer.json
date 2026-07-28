@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "couple",
-    "version": "1.1.109"
+    "version": "1.1.120"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "couple",
       "description": "Couple Hard Woods Floor",
-      "version": "1.1.109",
+      "version": "1.1.120",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Hammer",
       "footer_height": "",
@@ -28,7 +28,8 @@
       "logo_mini": "[{\"name\":\"logo-dark-mob_lnskwk.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1767011783/logo-dark-mob_lnskwk.png\"}]",
       "logo_mini_dark": "[{\"name\":\"logo-dark_frxxqg.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1767011777/logo-dark_frxxqg.png\"}]",
       "favicon": "[{\"name\":\"favicon_ghpito.ico\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1766121375/favicon_ghpito.ico\"}]",
-      "logo_height": "",
+      "logo_width": 100,
+      "logo_height": "55",
       "has_footer": 1,
       "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🏠 Coople Hardwood Floors\r\n\r\n    We transform spaces with the highest quality hardwood flooring. Over 15 years of experience in professional installation, repair, and finishing.\r\n\r\n    📍 **Location:** Boston, MA\r\n    📞 **Phone:** (857)-253-1930\r\n    ✉️ **Email:** [couple.ramirez@yahoo.com](mailto\\:couple.ramirez@yahoo.com)\r\n\r\n    **Business Hours:**\r\n    Mon - Sat 8:00 AM - 4:00 PM\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🔨 Our Services\r\n\r\n    * Solid hardwood floor installation\r\n    * Engineered & laminate flooring\r\n    * Sanding & refinishing\r\n    * Repair & restoration\r\n    * Custom finishes & staining\r\n    * Free estimates\r\n  </div>\r\n</div>",
       "has_copyright": 1,
@@ -36,14 +37,14 @@
       "fixed": 1,
       "logo_position": "left",
       "rounded": "full",
-      "show_user_section": 1,
+      "show_user_section": 0,
       "solid": 1,
       "opacity": "",
       "menu_items": [
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "cay9DjU3EJbZBXh",
+          "name": "cCvu08TRD00HX41",
           "page": "Couple Home",
           "link": "Home",
           "parent_menu": null,
@@ -55,7 +56,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "quLRe66F9fpP6rN",
+          "name": "sY3CV90R7c5P2Oe",
           "page": "Couple About",
           "link": "About",
           "parent_menu": null,
@@ -67,7 +68,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "J3eLhmvwFqRIM60",
+          "name": "N7B1wV84uR2e2x6",
           "page": "Couple Services",
           "link": "Services",
           "parent_menu": null,
@@ -79,7 +80,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "Y1gTN8muao178X4",
+          "name": "gB8mRoAkJrhyxu9",
           "page": "Couple Galery",
           "link": "Galery",
           "parent_menu": null,
@@ -91,7 +92,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "dkvgKCp9oELa71y",
+          "name": "JDsMIVd7ethOSpK",
           "page": "Couple Contact",
           "link": "Contact",
           "parent_menu": null,
@@ -103,7 +104,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "NCfL6BFEy4ahT09",
+          "name": "sr1e2xdjQX7c8J7",
           "page": "Couple Project",
           "link": "Projects",
           "parent_menu": null,
@@ -115,7 +116,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "HGQS1e9YhtP175f",
+          "name": "jAU071b6L9B3sc0",
           "page": "Couple Review",
           "link": "Reviews",
           "parent_menu": null,
@@ -186,13 +187,16 @@
       "description": "Installation of the entire floor, three-quarters hallway and kitchen, sanding and application of polyurethane.",
       "cover_image": "[{\"name\":\"IMG_3092.JPEG\",\"size\":653189,\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dxwex1ys6/image/upload/v1779326060/loopar/couple/couple/public/IMG_3092_l6nkan.jpg\"}]",
       "images": "[{\"name\":\"IMG_3092.JPEG\",\"size\":653189,\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dxwex1ys6/image/upload/v1779326060/loopar/couple/couple/public/IMG_3092_l6nkan.jpg\"},{\"name\":\"IMG_3094.JPEG\",\"size\":640950,\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dxwex1ys6/image/upload/v1779327536/loopar/couple/couple/public/IMG_3094_xdl7cl.jpg\"},{\"name\":\"IMG_3095.JPEG\",\"size\":789325,\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dxwex1ys6/image/upload/v1779327536/loopar/couple/couple/public/IMG_3095_yxigl7.jpg\"},{\"name\":\"IMG_3098.JPEG\",\"size\":694760,\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dxwex1ys6/image/upload/v1779327537/loopar/couple/couple/public/IMG_3098_fl5u7c.jpg\"}]",
-      "start_date": "2026-05-04",
-      "end_date": "2026-05-04",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
       "client": "Tatiana Construction",
       "external_url": "",
       "tags": ""
     },
     "Entity:Project Category": {
+      "__app__": "loopar"
+    },
+    "Entity:Service": {
       "__app__": "loopar"
     },
     "Entity:Service Category": {
@@ -205,25 +209,6 @@
       "app": "couple",
       "icon": "Hammer",
       "description": ""
-    },
-    "Service Category:Refinishing": {
-      "name": "Refinishing",
-      "title": "Refinishing",
-      "slug": "refinishing",
-      "app": "couple",
-      "icon": "Sparkles",
-      "description": ""
-    },
-    "Service Category:Repair & Restoration": {
-      "name": "Repair & Restoration",
-      "title": "Repair & Restoration",
-      "slug": "repair-restoration",
-      "app": "couple",
-      "icon": "Wrench",
-      "description": ""
-    },
-    "Entity:Service": {
-      "__app__": "loopar"
     },
     "Service:couple-install": {
       "name": "couple-install",
@@ -240,6 +225,14 @@
       "cta_label": "Get A Free Estimate",
       "cta_url": "/contact"
     },
+    "Service Category:Refinishing": {
+      "name": "Refinishing",
+      "title": "Refinishing",
+      "slug": "refinishing",
+      "app": "couple",
+      "icon": "Sparkles",
+      "description": ""
+    },
     "Service:couple-refinish": {
       "name": "couple-refinish",
       "title": "Refinish",
@@ -254,6 +247,14 @@
       "pricing_model": "hidden",
       "cta_label": "Get A Free Estimate",
       "cta_url": "/contact"
+    },
+    "Service Category:Repair & Restoration": {
+      "name": "Repair & Restoration",
+      "title": "Repair & Restoration",
+      "slug": "repair-restoration",
+      "app": "couple",
+      "icon": "Wrench",
+      "description": ""
     },
     "Service:couple-repair": {
       "name": "couple-repair",
