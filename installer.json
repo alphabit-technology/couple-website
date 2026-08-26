@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "couple",
-    "version": "1.1.120"
+    "version": "1.1.123"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "couple",
       "description": "Couple Hard Woods Floor",
-      "version": "1.1.120",
+      "version": "1.1.123",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Hammer",
       "footer_height": "",
@@ -37,14 +37,14 @@
       "fixed": 1,
       "logo_position": "left",
       "rounded": "full",
-      "show_user_section": 0,
+      "show_user_section": 1,
       "solid": 1,
       "opacity": "",
       "menu_items": [
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "cCvu08TRD00HX41",
+          "name": "icqrEOlHB1FDgb3",
           "page": "Couple Home",
           "link": "Home",
           "parent_menu": null,
@@ -56,7 +56,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "sY3CV90R7c5P2Oe",
+          "name": "txlZcabwWI1RjGv",
           "page": "Couple About",
           "link": "About",
           "parent_menu": null,
@@ -68,7 +68,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "N7B1wV84uR2e2x6",
+          "name": "e8Fra59k571E3H7",
           "page": "Couple Services",
           "link": "Services",
           "parent_menu": null,
@@ -80,7 +80,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "gB8mRoAkJrhyxu9",
+          "name": "qFVMW15o4B71Jew",
           "page": "Couple Galery",
           "link": "Galery",
           "parent_menu": null,
@@ -92,7 +92,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "JDsMIVd7ethOSpK",
+          "name": "mLH016VSGD5RUFW",
           "page": "Couple Contact",
           "link": "Contact",
           "parent_menu": null,
@@ -104,7 +104,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "sr1e2xdjQX7c8J7",
+          "name": "pFC6gkpSx5Vc2OX",
           "page": "Couple Project",
           "link": "Projects",
           "parent_menu": null,
@@ -116,7 +116,7 @@
         {
           "parent_document": "App",
           "__document_status__": "'Active'",
-          "name": "jAU071b6L9B3sc0",
+          "name": "XZYqvrSd715jU2t",
           "page": "Couple Review",
           "link": "Reviews",
           "parent_menu": null,
@@ -154,6 +154,9 @@
     "Entity:Menu Action": {
       "__app__": "loopar"
     },
+    "Page Builder:Couple Contact": {
+      "__root__": "/apps/couple/modules/couple/pages/couple-contact"
+    },
     "Page Builder:Couple Galery": {
       "__root__": "/apps/couple/modules/couple/pages/couple-galery"
     },
@@ -168,9 +171,6 @@
     },
     "Page Builder:Couple Services": {
       "__root__": "/apps/couple/modules/couple/pages/couple-services"
-    },
-    "Page Builder:Couple Contact": {
-      "__root__": "/apps/couple/modules/couple/pages/couple-contact"
     },
     "Entity:Project": {
       "__app__": "loopar"
